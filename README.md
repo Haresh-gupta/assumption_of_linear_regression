@@ -1,0 +1,1 @@
+# assumption_of_linear_regression
